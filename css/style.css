@@ -1,0 +1,6 @@
+.site-header {
+	border-top: 5px solid #fca13f;
+	border-bottom: none;
+	min-height: 56px; 
+	background-color: white;
+}
