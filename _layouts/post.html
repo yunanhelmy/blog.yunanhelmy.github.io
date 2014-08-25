@@ -1,11 +1,34 @@
 ---
 layout: default
 ---
+<span class="show-for-medium-up">
+	<span class="fixed-nav-post fixed-nav-post-left" data-anijs="if: animationend, on: .site-header, do: flipInX animated">
+		{% if page.previous.url %}
+			<a class="button small alert round" href="{{ page.previous.url }}" alt="{{page.previous.title}}" title="{{page.previous.title}}" ><i class="fi-arrow-left"></i></a>
+		{% endif %}
+	</span>
+
+	<span class="fixed-nav-post fixed-nav-post-right" data-anijs="if: animationend, on: .site-header, do: flipInX animated">
+		{% if page.next.url %}
+			<a class="button small alert round" href="{{ page.next.url }}" alt="{{page.next.title}}" title="{{page.next.title}}" ><i class="fi-arrow-right"></i></a>
+		{% endif %}
+	</span>
+</span>
 <div class="row">
 	<div class="medium-9 small-12 large-9 columns post-container">
 		<div class="post">
 		  <header class="post-header">
-		    <h1>{{ page.title }}</h1>
+		  	<span class="show-for-small-only">
+	    		{% if page.previous.url %}
+					<a class="right button small alert" href="{{ page.previous.url }}" alt="{{page.previous.title}}" title="{{page.previous.title}}" ><i class="fi-arrow-left"></i></a>
+				{% endif %}
+				{% if page.next.url %}
+					<a class="right button small alert" href="{{ page.next.url }}" alt="{{page.next.title}}" title="{{page.next.title}}" ><i class="fi-arrow-right"></i></a>
+				{% endif %}
+	    	</span>
+		    <h1>
+		    	{{ page.title }}
+		    </h1>
 		    <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
 		  </header>
 
@@ -26,3 +49,6 @@ layout: default
 		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 	</div>
 </div>
+
+
+

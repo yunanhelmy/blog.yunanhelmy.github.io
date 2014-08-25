@@ -15,7 +15,7 @@ body{
 }
 
 .site-header {
-	border-top: 5px solid #fca13f;
+	border-top: 4px solid #fca13f;
 	border-bottom: none;
 	min-height: 56px; 
 	background-color: white;
@@ -107,3 +107,21 @@ footer.footer{
 .post-container{
 	padding-right: 0px;
 }
+
+.fixed-nav-post-left{
+	left: 1rem;
+}
+
+.fixed-nav-post-right{
+	right: 1rem;
+}
+
+.fixed-nav-post{
+	position: fixed;
+	top:  50%;
+	z-index: 9999;
+}
+
+.fixed-nav-post a, .fixed-nav-post a:hover {
+	text-decoration: none;
+} 
