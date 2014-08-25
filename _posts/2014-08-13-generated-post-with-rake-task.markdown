@@ -5,6 +5,7 @@ date: 2014-08-13 22:30:04 +0700
 comments: true
 categories: ['dummy post', 'trash']
 tags: 
+thumbnail:
 ---
 
 This post was generated with rake task

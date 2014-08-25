@@ -90,7 +90,7 @@ redcloth:
 # Site settings
 title: yunanhelmy.github.io
 email: m.yunan.helmy@gmail.com
-description: "Do something with your style"
+description: "Just another blog that contains anything in my mind."
 baseurl: ""
 url: "http://yunanhelmy.github.io"
 twitter_username: myunanhelmy
@@ -98,7 +98,7 @@ github_username:  yunanhelmy
 
 # Build settings
 markdown: kramdown
-permalink: /posts/:year/:month/:day/:title
+permalink: /articles/:year/:month/:day/:title
 
 # DRY
 defaults:
@@ -120,4 +120,7 @@ sass:
   style: :compressed
 coffee:
   style: :compressed
+
+paginate: 10
+paginate_path: /articles/:num
 

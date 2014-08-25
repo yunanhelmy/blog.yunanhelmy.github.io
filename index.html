@@ -2,20 +2,58 @@
 layout: default
 ---
 
-<div class="home">
+<div id="container-index" class="js-masonry" data-masonry-options='{ "itemSelector": ".item-masonry" }'>
+  {% for post in paginator.posts %}
+  {% if post.thumbnail %}
+    <div class="item-masonry" style="width: 50%">
+  {% else %}
+    <div class="item-masonry">
+  {% endif %}
+    <div class="post-index-header">
+      <span class="date-post">{{ post.date | date: "%d %b %Y" }}</span>
+      {% if post.categories.first %}
+        <span class="label success category-post">{{ post.categories.first }}</span>
+      {% endif %}
+    </div>
+    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+      {% if post.thumbnail %}
+      <div class="row">
+        <img class="th thumbnail-post" src="{{ post.thumbnail }}">
+        <span class="title-with-img">{{ post.title }}</span>
+      </div>
+      {% else %}
+      {{ post.title }}
+      {% endif %}
+    </a>
+  </div>
+  {% endfor %}
+</div>
 
-  <h1>Posts</h1>
+<!-- Pagination links -->
+<div class="row pagination-centered">
+  {% if paginator.total_pages > 1 %}
+  <ul class="pagination">
+    {% if paginator.previous_page %}
+      <li class="arrow"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo;</a></li>
+    {% else %}
+      <li class="arrow unavailable"><a href="javascript:void(0);">&laquo;</a></li>
+    {% endif %}
 
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        {{ post.categories.length }}
-      </li>
+    {% for page in (1..paginator.total_pages) %}
+      {% if page == paginator.page %}
+        <li class=""><a href="javascript:void(0);">{{ page }}</a></li>
+      {% elsif page == 1 %}
+        <li class=""><a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
+      {% else %}
+        <li class=""><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+      {% endif %}
     {% endfor %}
+
+    {% if paginator.next_page %}
+      <li class="arrow"><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&raquo;</a></li>
+    {% else %}
+      <li class="arrow unavailable"><a href="javascript:void(0);">&raquo;</a></li>
+    {% endif %}
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+  {% endif %}
 </div>
