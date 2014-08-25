@@ -82,5 +82,28 @@ footer.footer{
 }
 
 .page-content{
-	min-height: 70%;
+	min-height: 75%;
+}
+
+.post{
+	background-color: #fff;
+	padding: 1rem 1rem 1rem 1rem;
+	margin-bottom: 1rem;
+	font-weight: lighter;
+}
+
+.post-content{
+	background-color: #fff;
+}
+
+.post-sidebar{
+	background-color: #373737;
+	padding: 1rem 1rem 1rem 1rem;
+	color: #fff;
+	margin-bottom: 1rem;
+	font-size: 0.85rem;
+}
+
+.post-container{
+	padding-right: 0px;
 }
