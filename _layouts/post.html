@@ -4,13 +4,13 @@ layout: default
 <span class="show-for-medium-up">
 	<span class="fixed-nav-post fixed-nav-post-left" data-anijs="if: animationend, on: .site-header, do: flipInX animated">
 		{% if page.previous.url %}
-			<a class="button small alert round" href="{{ page.previous.url }}" alt="{{page.previous.title}}" title="{{page.previous.title}}" ><i class="fi-arrow-left"></i></a>
+			<a class="button small" href="{{ page.previous.url }}" alt="{{page.previous.title}}" title="{{page.previous.title}}" ><i class="fi-arrow-left"></i></a>
 		{% endif %}
 	</span>
 
 	<span class="fixed-nav-post fixed-nav-post-right" data-anijs="if: animationend, on: .site-header, do: flipInX animated">
 		{% if page.next.url %}
-			<a class="button small alert round" href="{{ page.next.url }}" alt="{{page.next.title}}" title="{{page.next.title}}" ><i class="fi-arrow-right"></i></a>
+			<a class="button small" href="{{ page.next.url }}" alt="{{page.next.title}}" title="{{page.next.title}}" ><i class="fi-arrow-right"></i></a>
 		{% endif %}
 	</span>
 </span>
@@ -20,10 +20,10 @@ layout: default
 		  <header class="post-header">
 		  	<span class="show-for-small-only">
 	    		{% if page.previous.url %}
-					<a class="right button small alert" href="{{ page.previous.url }}" alt="{{page.previous.title}}" title="{{page.previous.title}}" ><i class="fi-arrow-left"></i></a>
+					<a class="right button small" href="{{ page.previous.url }}" alt="{{page.previous.title}}" title="{{page.previous.title}}" ><i class="fi-arrow-left"></i></a>
 				{% endif %}
 				{% if page.next.url %}
-					<a class="right button small alert" href="{{ page.next.url }}" alt="{{page.next.title}}" title="{{page.next.title}}" ><i class="fi-arrow-right"></i></a>
+					<a class="right button small" href="{{ page.next.url }}" alt="{{page.next.title}}" title="{{page.next.title}}" ><i class="fi-arrow-right"></i></a>
 				{% endif %}
 	    	</span>
 		    <h1>
