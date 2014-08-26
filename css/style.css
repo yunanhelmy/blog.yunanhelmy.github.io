@@ -138,3 +138,7 @@ header{
 .site-header{
 	background: none;
 }
+
+.pagination{
+	display: none;
+}
