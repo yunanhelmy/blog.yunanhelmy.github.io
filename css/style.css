@@ -142,3 +142,11 @@ header{
 .pagination{
 	display: none;
 }
+
+.share-button { 
+	margin: auto;
+}
+
+.social ul{
+	line-height: 1.2;
+}
