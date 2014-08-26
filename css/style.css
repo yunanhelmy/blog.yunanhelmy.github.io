@@ -134,6 +134,10 @@ header{
 	background: none;
 	background-color: rgba(81,81,81,0.7);
 }
+.top-bar.expanded, .top-bar.expanded .title-area, .top-bar-section ul li, .top-bar-section ul li a:hover,.top-bar-section ul li:hover{
+	background: none;
+	background-color: rgba(81,81,81,0.7);
+}
 
 .site-header{
 	background: none;
