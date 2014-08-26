@@ -18,7 +18,7 @@ layout: default
     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
       {% if post.thumbnail %}
       <div class="row">
-        <img class="th thumbnail-post" src="{{ post.thumbnail }}">
+        <img class="th thumbnail-post" data-src="{{ post.thumbnail }}" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
         <span class="title-with-img">{{ post.title }}</span>
       </div>
       {% else %}
