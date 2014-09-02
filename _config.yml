@@ -124,3 +124,8 @@ coffee:
 paginate: 15
 paginate_path: /articles/:num
 
+assets:
+  cache: true
+  js_compressor:  uglifier
+  css_compressor: sass
+
