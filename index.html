@@ -4,11 +4,7 @@ layout: default
 
 <div id="container-index" class="js-masonry" data-masonry-options='{ "itemSelector": ".item-masonry" }'>
   {% for post in paginator.posts %}
-  {% if post.thumbnail %}
-    <div class="item-masonry" style="width: 50%">
-  {% else %}
-    <div class="item-masonry">
-  {% endif %}
+  <div class="item-masonry">
     <div class="post-index-header">
       <span class="date-post">{{ post.date | date: "%d %b %Y" }}</span>
       {% if post.categories.first %}
