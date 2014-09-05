@@ -15,7 +15,7 @@ Lets forget about workshop. I will share the test from Netguru. Basically if you
 
 You can check my source code <a href="https://github.com/yunanhelmy/workshops" target="_blank">here</a>
 
-Here re some issue to solve in test :
+Here are some issue to solve in test :
 
 1. Missing field on `User` model
 	* Run `rspec spec/models/product_spec.rb` you'll see error. Just add those missing fields and add validation for them.

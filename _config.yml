@@ -128,4 +128,8 @@ assets:
   cache: true
   js_compressor:  uglifier
   css_compressor: sass
+  sources:
+    - _assets/javascripts
+    - _sass
+    - _assets/images
 
