@@ -40,7 +40,7 @@ config.time_zone = 'Jakarta'
 restart the application and reload my rails console but still its not solve that problem. I found that `Time.now` and `Time.zone.now` returns different values because `Time.now` return local date but `Time.zone.now` return the desired time zone in `application.rb`. If you want to make `Time.zone.now` returning local date then you can adjust `application.rb` :
 
 {% highlight ruby %}
-config.active_record.default_timezone = 'Jakarta'
+config.active_record.default_timezone = :local
 {% endhighlight %}
 
 ### Local server time
