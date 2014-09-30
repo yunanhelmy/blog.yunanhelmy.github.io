@@ -27,7 +27,7 @@ Saya heran sendiri, mengapa sampai sekarang saya belum berminat untuk membuat st
 Tapi, overall saya puas mengikuti GDG kali ini. Saya mendapatkan ilmu yang menarik dan pemikiran - pemikiran yang tidak kalah menarik. Semoga saya berkesempatan untuk mengikuti meetup selanjutnya.
 
 
-* mohon maaf saya lupa nama pembicaranya.
+*mohon maaf saya lupa nama pembicaranya.
 
 
 [lendabook]:http://lendabook.co/
