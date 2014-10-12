@@ -26,7 +26,7 @@ harus kau dengan semua yang harus kau dengarkan<br>
 isi hatiku yang belum ku sampaikan<br>
 
 ternyata tak semudah itu keinginan bisa terjadi<br>
-tapi ku berharap semoga masih ada kemsepatan<br>
+tapi ku berharap semoga masih ada kesempatan<br>
 sekali lagi<br>
 
 masih tertunda dan belum semua ku katakan<br>
