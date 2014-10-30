@@ -39,4 +39,8 @@ But what on earth is that ??
 
 It is not secret anymore that you can dinamically adding method to a class in `Ruby`. What we've done is we add new method called `capitalize_all` into `Ruby` `String` class. Then once it settled we only need to call that method. For example : `"hello world".capitalize_all`.
 
-I hope my post will give you the idea about dinamyc method in `Ruby`.
+<hr>
+
+OK you got me! i tricked you. hahaha :D
+
+Actually you can just do `"hello world".titleize` to get `"Hello World"`. But i hope my post will give you and idea to create dynamic method.
