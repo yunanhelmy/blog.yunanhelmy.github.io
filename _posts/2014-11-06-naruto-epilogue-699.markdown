@@ -3,8 +3,8 @@ layout: post
 title: "Naruto's Epilogue (699)"
 date: 2014-11-06 18:25:13 +0700
 comments: true
-categories: 
-tags: 
+categories: manga
+tags: manga
 thumbnail:
 ---
 
