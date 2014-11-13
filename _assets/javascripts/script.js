@@ -5,8 +5,12 @@ $(document).ready(function() {
     navSelector   : ".pagination",
     nextSelector  : "a#next",
     itemSelector  : "#container-index .item-masonry",
-    debug     : true,
-    dataType    : 'html',
+    animate       : true
+    loadingImg    : "", 
+    loadingText   : "Loading another awesomeness ...", 
+    donetext      : "Oops. Sorry its end of line ..." ,
+    debug         : true,
+    dataType      : 'html',
     path: function(index) {
       return "/articles/" + index + "/index.html";
     }
