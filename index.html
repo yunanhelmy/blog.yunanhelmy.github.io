@@ -14,7 +14,7 @@ layout: default
     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
       {% if post.thumbnail %}
       <div class="row">
-        <img class="th thumbnail-post" data-src="{{ post.thumbnail }}" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+        <img class="th thumbnail-post" src="{{ post.thumbnail }}">
         <span class="title-with-img">{{ post.title }}</span>
       </div>
       {% else %}
@@ -28,7 +28,7 @@ layout: default
 <!-- Pagination links -->
 <div class="row pagination-centered">
   {% if paginator.total_pages > 1 %}
-  <ul class="pagination">
+  <ul class="pagination" style="display: none;">
     {% if paginator.previous_page %}
       <li class="arrow"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo;</a></li>
     {% else %}
