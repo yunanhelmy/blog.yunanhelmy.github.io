@@ -3,8 +3,8 @@ layout: post
 title: "Time zone in Rails, MySQL, and local"
 date: 2014-09-11 08:50:37 +0700
 comments: true
-categories: ['rails', 'ruby', 'mysql', 'server']
-tags: 
+categories: [rails, ruby, mysql, server]
+tags: [rails, ruby]
 thumbnail:
 ---
 I find its frustating when you can't set the right time zone for your application / website. Currently i'm handling project that needs to display today events and upcoming events. I got task to migrate it into new server. But when its migrated the features is still not correct.

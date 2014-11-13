@@ -3,8 +3,8 @@ layout: post
 title: "Netguru's Workshop"
 date: 2014-09-02 09:30:12 +0700
 comments: true
-categories: ['ruby', 'rails']
-tags: ['ruby', 'rails', 'netguru']
+categories: [ruby, rails]
+tags: [ruby, rails, netguru]
 thumbnail: 
 ---
 A few weeks ago i participated on test to enter <a href="https://netguru.co/" target="_blank">Netguru's</a> August Free Workshop. I got this information from newsletter of Netguru. Then i decide to do the test given. The test is simple. Issue given and we have to fix alll of them. Actually i'm enrolled to this workshop. But unfortunatelly i couldn't join the workshop because its in Polandia. Its impossible to me to get there as i'm in Indonesia. Even if i have passport i will need visa and to process that i need more time than just one week. I emailed one of Netguru's staff and ask whether i could join workshop via video conference or not. Again, unfortunately that they will not be able to stream their workshop.

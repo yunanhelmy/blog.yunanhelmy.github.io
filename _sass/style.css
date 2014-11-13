@@ -189,3 +189,7 @@ header{
 	color: #6f6f6f;
 	opacity: .6;
 }
+
+a.related_link, a.related_link:hover, a.related_link:visited{
+	color: #fff;
+}

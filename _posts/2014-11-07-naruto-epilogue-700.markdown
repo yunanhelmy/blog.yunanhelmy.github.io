@@ -4,7 +4,7 @@ title: "Naruto's Epilogue (700)"
 date: 2014-11-07 09:11:03 +0700
 comments: true
 categories: manga
-tags: 
+tags: manga
 thumbnail:
 ---
 

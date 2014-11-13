@@ -4,7 +4,7 @@ title: "Rails Console Display SQL Query"
 date: 2014-11-03 16:42:52 +0700
 comments: true
 categories: [rails, ruby]
-tags: rails
+tags: [rails, ruby]
 thumbnail:
 ---
 Did you know that you can show your *executed query* in your `Rails Console`. If you have ever face problem and want to see the query or even debug your query, you can activate it in your `Rails Console`. Simply execute this code in the `Rails Console` : 
