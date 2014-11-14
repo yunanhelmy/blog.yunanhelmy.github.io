@@ -33,7 +33,7 @@ Saya masih saja kepikiran tentang 1 hari 1 tulisan. Sepertinya saya mampu membua
 Saya, pemuda Indonesia yang biasa - biasa saja, mengaku berbangsa satu bangsa Indonesia dan berjanji :
 
 * Commit tidak harus tulisan, jadi bisa saja saya cuma nambah fitur, nambah halaman, dan sebagainya.
-* Commit juga tidak terbatas pada kode. Bisa aja saya merevisi ataupun hanya menambahkan komentar di kode, atau menambah plugin. Jadi kalau sewaktu - waktu saya terkena *zero motivation* lagi saya bisa beralasan, *kan udah commit*
+* Commit juga tidak terbatas pada kode. Bisa aja saya merevisi ataupun hanya menambahkan komentar di kode, atau menambah plugin. Jadi kalau sewaktu - waktu saya terkena *zero motivation* lagi saya bisa beralasan, *kan udah commit*.
 * Commit yang berupa tulisan akan ada yang berbahasa Indonesia atau Inggris.
 
 ## Syarat dan ketentuan
@@ -41,10 +41,10 @@ Eits, tunggu dulu ternyata ada syarat dan ketentuannya.
 
 * Commit ini tidak berlaku jika saya sakit ataupun ada urusan penting yang mendadak.
 * Commit ini terbatas pada koneksi internet. Jadi kalau koneksinya lelet, saya cukup commit aja di lokal. Sisanya push ke repository kalau internet sudah mau di ajak kompromi.
-* Commit ini tidak berlaku di weekend. Karena di weekend saya ada urusan dinas <del>ngapel</del>. [Nyonya][nyonya]{:target="_blank"} ntar lempar - lempar piring kalau nggak diapelin :P
+* Commit ini tidak berlaku di weekend. Karena di weekend saya ada urusan dinas <del>ngapel</del>. [Nyonya][nyonya]{:target="_blank"} nanti lempar - lempar piring kalau nggak diapelin :P
 
 ## Harapan
-Meskipun sebenarnya blog ini cuma dikunjungi hanya oleh saya dan [Nyonya][nyonya]{:target="_blank"}, saya merasa senang bisa menulis disini. Saya tidak butuh banyak orang kalau sudah ada [Nyonya][nyonya]{:target="_blank"} jadi tidak penting blog ini dikunjungi orang lain. Muehehehe. Tapi kalau ada yang berkunjung ya monggo mau gimana lagi, saya terpaksa menerima dan menuangkan teh :P
+Meskipun sebenarnya blog ini cuma dikunjungi hanya oleh saya dan [Nyonya][nyonya]{:target="_blank"}, saya merasa senang bisa menulis disini. Saya tidak butuh banyak orang kalau sudah ada [Nyonya][nyonya]{:target="_blank"} jadi tidak penting blog ini dikunjungi orang lain. Muehehehe. Tapi kalau ada yang berkunjung ya monggo mau gimana lagi, saya *terpaksa* menerima dan menuangkan teh :P
 
 Sekian dan terima kasih ...
 Salam males !!
