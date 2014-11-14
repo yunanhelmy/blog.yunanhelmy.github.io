@@ -11,7 +11,7 @@ thumbnail: http://yunanhelmy.github.io/images/sumpah.jpg
 
 ## Keinginan
 
-Akhirnya tersalurkan juga niat nulis di blog. Dulu waktu SMA pernah punya blog tapi karena gak pernah di isi jadinya banyak sarang laba - laba deh. hehehe. Sempet juga bikin blog lagi waktu kuliah, tapi ujung - ujungnya tetep tidak di rawat. Entah kenapa setiap kali punya keinginan untuk menulis, saat itu juga saya terkena penyakit *zero motivation*.
+Akhirnya tersalurkan juga niat nulis di blog. Dulu waktu SMA pernah punya blog tapi karena tidak pernah di isi jadinya banyak sarang laba - laba deh. hehehe. Sempet juga bikin blog lagi waktu kuliah, tapi ujung - ujungnya tetep tidak di rawat. Entah kenapa setiap kali punya keinginan untuk menulis, saat itu juga saya terkena penyakit *zero motivation*.
 
 Penyakit saya dari dulu itu sama. Saya terlalu malas untuk melakukan sesuatu meskipun sebenarnya saya bisa melakukannya. What a drag ! **shikamaru style** 
 
