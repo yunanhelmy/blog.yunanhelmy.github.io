@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Tilang ? (2)"
+date: 2014-11-18 18:20:31 +0700
+comments: true
+categories: 
+tags: tilang
+thumbnail:
+---
+
+> Saya tahu Bapak memang butuh uang tapi saya tidak akan memberikan uang saya dengan cara seperti itu
+
+[Sambungan dari ... ][bersambung]{:target="_blank"}
+
+Aneh bin ajaib karena ternyata saya tidak jadi di tilang gara - gara pak polisi kasian melihat saya tidak tahu dimana itu jalan kapas nomer 28 ataupun saya bingung mau pilih slip biru atau slip merah. Tapi saya pikir bukan itu alasan utama pak polisi memberikan SIM dan STNK saya. Sepertinya saya tidak bisa dibodohi untuk menitipkan uang guna membayar denda di sidang. Ternyata ada untungnya juga jadi silent reader di forum - forum. Saya sebelumnya sudah mengetahui seluk beluk dari slip merah dan slip biru, bagaimana maksudnya dan berapa dendanya.
+
+Saat pertama kali percakapan saya langsung menyadari kalau saya salah telah melanggar lampu merah. Lalu saya meminta slip biru, bukan slip merah. Apa artinya? Artinya adalah saya menyatakan diri bahwa saya salah dan saya diwajibkan membayar denda yang masuk ke negara. Berbeda dengan slip merah. Slip merah merupakan pernyataan bahwa kita menyangkal kalau kita bersalah dan menyelesaikannya di persidangan. Slip biru sendiri mungkin dendanya lebih besar daripada slip merah. Tapi slip biru uangnya langsung masuk ke negara. Sedangkan slip merah nanti dendanya ditentukan waktu persidangan baru masuk ke negara. 
+
+Yang membuat saya heran adalah kenapa waktu saya meminta slip biru pada pak polisi, seakan - akan pak polisi memaksa saya untuk menerima slip merah. Dia menakut - nakuti saya dengan denda Rp 500.000,00. Saya sempat berpikir juga sih kalau Rp 500.000,00 ya mahal juga kan. Akhirnya saya terpikir untuk sidang saja. Anehnya lagi itu pak polisi kok malah seakan - akan memaksa saya untuk menitipkan uang kepada dia. Dia sampai berkali - kali meyakinkan saya kalau saya bisa datang ke persidangan. Meskipun tidak tersirat bahwa dia berharap saya menitipkan uang, tapi jelas terlihat kalau saya diarahkan kesitu. Akan tetapi saya tetap bersikeras untuk tidak memberikan uang kepada polisi. Lebih baik saya ijin beberapa jam dari kantor daripada saya harus memberikan uang ke polisi yang mungkin bisa saja nanti tidak akan sampai di persidangan.
+
+Saya sudah tidak *respect* ke pak polisi lagi waktu dia mengarahkan saya dari slip biru ke slip merah. Saya tahu kalaupun saya sidang nanti saya masih harus dihadapkan dengan calo yang mungkin saja nanti saya bisa memberikan uang kepada calo tersebut. Tetap saya tidak ikhlas kalau uang yang saya titipkan ke polisi tersebut mungkin saja uang tersebut akan masuk ke kantongnya dia saja. Meskipun tidak seberapa, tapi tetap saja saya males untuk merogoh kocek <del>ya kecuali kalau terpaksa :p<del>
+
+Menurut saya, yang harus dilakukan polisi pada saat saya melakukan pelanggaran lalu lintas yaitu :
+
+1. Jika itu ringan dan baru 1, 2, atau 3 kali, saya hanya mendapat teguran dan peringatan
+2. Jika sudah melebihi 3 kali, ataupun pelanggaran tersebut dikategorikan ke dalam pelanggaran berat, saya dikenakan denda baik itu slip biru ataupun slip merah
+
+Nah bagaimana dengan pencatatannya? Bagaimana kita bisa lacak sudah berapa kali melakukan pelanggaran? Menurut saya harus ada sistem terintegrasi untuk mewadahi pencatatan tersebut. Katakanlah ada sebuah sistem yang bisa di akses oleh pihak kepolisian (baik itu via mobile ataupun lainnya), yang mencatatkan nomor SIM xxx telah melakukan pelanggaran xxx. Nanti bisa di lihat kan saya telah melakukan pelanggaran apa saja, itu bisa dijadikan polisi untuk mengambil keputusan apakah hanya akan diberi peringatan lisan saja ataupun denda. Denda tersebut bisa di lacak sudah masuk ke kas negara atau belum. Tapi perlu diingat data dari sistem tersebut bersifat rahasia dan jangan sampai tersebar atau di lihat oleh pihak selain kepolisian. 
+
+Kalau semisal ada sistem tersebut kan jadi sama - sama enak. Kita pun tidak berprasangka buruk kalau denda kita tidak masuk ke pihak yang *nakal*, kita jadi bisa lebih berkeinginan untuk mematuhi peraturan, dan polisi pun bisa jadi pengayom masyarakat sesuai dengan fungsinya.
+
+> Lets create a better life here! Because politicians here already makes our life worse
+
+Intermezzo : Untungnya saya tidak jadi kena tilang, jadi uangnya saya gunakan untuk membeli sandal di malioboro. hahaha
+
+
+[bersambung]: {{page.previous.url}}

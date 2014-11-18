@@ -1,0 +1,72 @@
+---
+layout: post
+title: "Tilang ? (1)"
+date: 2014-11-18 17:48:13 +0700
+comments: true
+categories: 
+tags: tilang
+thumbnail:
+---
+Tulisan ini harusnya saya tulis kemarin, tapi karena saya malas jadi saya tulis hari ini.
+
+Sekian lama <del>6 bulan</del> tinggal di Jogja, baru kali ini saya kena tilang. Jadi ceritanya hari minggu kemarin saya mau ke jalan malioboro. Ketika hampir sampai tkp, saya lupa kalau di belokan situ ada lampu lalu lintas. Alhasil saya-pun diberhentikan oleh pak polisi. Akan tetapi ada cerita menarik dari semua itu.
+
+Ceritanya saya di bawa ke pos, diminta memperlihatkan STNK. Langsung saja saya keluarkan STNK. Anehnya polisi tidak meminta SIM saya. Walaupun begitu saya tetap memberikan SIM saya untuk di cek.
+
+P = Pak Polisi<br>
+S = Saya
+
+P = udah berapa lama di Jogja ?<br>
+S = sekitar 6 bulan pak<br>
+P = kamu mau kemana ?<br>
+S = ke jalan malioboro<br>
+P = kamu melanggar lampu merah tadi. itu nggak ngliat apa tadi lampu udah merah. di panggil kesini malah senyum - senyum<br>
+S = iya saya salah tadi pak. saya minta slip biru aja pak, nanti saya transfer ke bank<br>
+P = kamu yakin ?<br>
+S = Iya pak, dulu saya juga pernah di tilang terus saya urus langsung transfer ke bank <del>padahal belum pernah pengalaman transfer ke bank</del><br>
+P = di tilang dimana ?<br>
+S = di semarang<br>
+P = itu di semarang. kalau di sini nggak bisa transfer, harus bayar langsung<br>
+S = ya nggak apa - apa nanti saya ke bank untuk bayar langsung<br>
+P = Yakin mau bayar ? nih lihat dendanya. kalau urusannya sama bank nggak kompromi lho (sambil sok memperlihatkan dendanya maksimal 500.000)<br>
+S = Wah biasanya juga nggak semahal itu pak, paling nggak ada 50.000 kalau melanggar lampu merah<br>
+P = Ya nggak tau, urusan di bank nanti jauh lebih mahal. nih lihat nilai maksimalnya<br>
+P = daripada bayar mahal kamu saya kasih slip merah aja, nanti sidang<br>
+S = ... mikir ...<br>
+S = ya udah saya terima slip merah aja pak<br>
+P = oke. nanti sidangnya di jalan kapas nomer 28<br>
+S = ya nanti saya datang ke jalan kapas nomer 28<br>
+P = kuliah dimana ?<br>
+S = saya udah kerja pak di <del>sensor</del>. di jalan pakuningratan nomer 15. di deket sini<br>
+P = oh. lha nanti bisa nggak dateng ke sidangnya ?<br>
+S = iya deh bisa pak nanti saya ijin ke kantor<br>
+P = yakin ?<br>
+S = iya pak<br>
+P = jalan kapas nomer 28 ya. tau nggak?<br>
+S = wah nggak tau pak. nanti saya tanya temen lah gampang<br>
+P = (pak polisi lalu menunjukkan 2 slip, merah dan biru). udah nih sekarang mau slip yang mana. mau bayar ke bank atau sidang aja<br>
+S = ... mikir ...<br>
+S = sidang aja pak nggak apa - apa<br>
+P = (berbisik - bisik dengan rekan sejawatnya) jalan kapas nomer 28 kan nanti sidangnya ?<br>
+P2 = iya<br>
+S = iya pak nanti saya datang sidang<br>
+P = jangan lupa lho dateng di sidang nya di jalan kapas nomer 28<br>
+S = iya pak nanti saya usahakan<br>
+P = yakin ini mau sidang ?<br>
+S = iya pak<br>
+P = ... diam, melihat - lihat STNK dan SIM saya lagi untuk ke sekian kalinya ...<br>
+P = (pak polisi memberikan SIM dan STNK saya) ini saya kembalikan, udah sana cepetan pergi, jangan diulangin lagi melanggar lampu merahnya<br>
+S = lhah nggak jadi di tilang pak ?<br>
+P = udah sana cepet pergi, daripada bingung kan mau bayar ke bank atau dateng sidang dan nggak tau tempatnya<br>
+S = oh ya udah (temen saya bingung kok nggak jadi di tilang sambil salaman sama polisi. kalau saya mah ogah dan jijik salaman sama dia)<br>
+S = makasih ya pak<br>
+
+Saya pun langsung pergi ke malioboro dan nggak jadi di tilang deh :D
+
+> Bukankah ini menjadi sebuah ironi, keberadaan polisi justru membuat kita paranoid bukan membuat kita merasa aman dan nyaman
+
+[Bersambung ...][bersambung]{:target="_blank"}
+
+[bersambung]: {{page.next.url}}
+
+
