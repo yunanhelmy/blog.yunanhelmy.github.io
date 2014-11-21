@@ -3,15 +3,9 @@ layout: post
 title: Devise Mailer With Port In Default Url Option
 date: "2014-11-21 14:20:48 +0700"
 comments: true
-categories: 
-  - rails
-  - ruby
-tags: 
-  - rails
-  - ruby
-  - capistrano
-thumbnail: null
-published: false
+categories: [rails,ruby]
+tags: [rails, ruby, capistrano]
+thumbnail: 
 ---
 
 ## Devise Mailer Custom Port
