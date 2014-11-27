@@ -121,7 +121,7 @@ sass:
 coffee:
   style: :compressed
 
-paginate: 6
+paginate: 9
 paginate_path: /articles/:num
 
 assets:
