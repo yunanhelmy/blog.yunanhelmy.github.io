@@ -22,7 +22,7 @@ Pertama kali saya mengetahui [reveal dot js][reveal.js]{:target="_blank"} ini se
 
 Tidak sampai disitu saja, saya ingin terlihat lebih **keren** lagi. Akhirnya saya memutuskan untuk memasang [reveal dot js][reveal.js]{:target="_blank"} di blog ini. Karena [reveal dot js][reveal.js]{:target="_blank"} merupakan gabungan dari HTML, CSS, dan javascript, jadi saya tidak perlu repot - repot settingnya di Jekyll. [reveal dot js][reveal.js]{:target="_blank"} sendiri merupakan *static content* jadi santai kita hosting di Github pun tidak masalah. 
 
-Untuk dapat menggunakan [reveal dot js][reveal.js]{:target="_blank"} Anda bisa download di [Github repository-nya][reveal.js]{:target="_blank"} lalu extract saja filenya. Anda bisa mengontrol semuanya dengan HTML. Jadi saran saya kalau anda tidak suka tesk silakan menggunakan [slides.com][slides.com]{:target="_blank"}. 
+Untuk dapat menggunakan [reveal dot js][reveal.js]{:target="_blank"} Anda bisa download di [Github repository-nya][reveal.js]{:target="_blank"} lalu extract saja filenya. Anda bisa mengontrol semuanya dengan HTML. Jadi saran saya kalau anda tidak suka teks silakan menggunakan [slides.com][slides.com]{:target="_blank"}. 
 
 Hal pertama yang harus dilakukan adalah membuat file HTML dan selanjutnya adalah **koding!** Sederhana saja, Anda hanya cukup memasang CSS nya terlebih dahulu dan juga tema yang Anda inginkan. Ada beberapa tema bawaan yang menarik untuk di pakai dan tentunya jika tidak ada yang suka bisa kita buat tema sendiri menggunakan CSS kita sendiri. 
 
