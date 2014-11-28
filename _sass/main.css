@@ -232,7 +232,7 @@ a:hover   { color: #000; text-decoration: underline; }
   -moz-border-radius: 3px;
   border-radius: 3px;
   font-size: 15px;
-  overflow:scroll;
+  overflow:auto;
 }
 
 .post code { padding: 1px 5px; }
@@ -261,7 +261,7 @@ a:hover   { color: #000; text-decoration: underline; }
 /* Syntax highlighting styles */
 /* ----------------------------------------------------------*/
 
-.highlight  { background: #ffffff; }
+.highlight  { background: #ffffff; border: 0px !important ;}
 .highlight .c { color: #999988; font-style: italic } /* Comment */
 .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
 .highlight .k { font-weight: bold } /* Keyword */
