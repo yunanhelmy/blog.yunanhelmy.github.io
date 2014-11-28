@@ -32,7 +32,7 @@ Contoh hasil dari pemasangan Gist :
 
 <script src="https://gist.github.com/yunanhelmy/656d746fc7e1613cbd23.js"></script>
 
-Cheers!
+Cheers !
 
 [gist]: https://gist.github.com/
 [github]: https://github.com
