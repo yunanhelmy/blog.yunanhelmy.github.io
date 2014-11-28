@@ -4,7 +4,7 @@ title: "Membuat Slide Presentasi Dengan Menggunakan Reveal.js"
 date: 2014-11-27 20:40:29 +0700
 comments: true
 categories: [reveal.js]
-tags: [slides, presentation, reveal.js]
+tags: [slides, presentation, reveal.js, tutorial]
 thumbnail:
 ---
 
