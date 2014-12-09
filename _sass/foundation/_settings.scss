@@ -43,7 +43,7 @@ $base-font-size: 110%;
 // We use these to control various global styles
 $body-bg: scale-color(#ffffff, $lightness: 10%);
 $body-font-color: #303030;
-$body-font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+$body-font-family: "aller","Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
 // $body-font-weight: $font-weight-normal;
 // $body-font-style: normal;
 
@@ -1181,7 +1181,7 @@ $topbar-bg-color: $primary-color;
 $topbar-bg: $topbar-bg-color;
 
 // Height and margin
-$topbar-height: 50px;
+$topbar-height: 55px;
 // $topbar-margin-bottom: 0;
 
 // Controlling the styles for the title in the top bar
