@@ -1,18 +1,138 @@
 <html>
 <head>
-  <title>Jekyll</title>
+  <title>Jekyll | Blog Locally In Your Favorite Editor</title>
   <link rel="stylesheet" href="../css/reveal.min.css">
   <link rel="stylesheet" href="../css/theme/default.css" id="theme">
+  <link rel="stylesheet" type="text/css" href="css/custom.css">
 </head>
 <body>
   <!-- semua yang ada di class ini akan di anggap sebagai presentasi -->
   <div class="reveal">
     <div class="slides">
+      <section>
+        <img src="img/logo-2x.png" class="opening">
+        <br>
+        <p><a href="http://jekyllrb.com/" target="_blank">http://jekyllrb.com/</a></p>
+      </section>
       <section data-background="#007777">
         <h1>Jekyll</h1>
+        <hr>
+        <h1>Blog Locally In Your Favorite Editor</h1>
       </section>
       <section>
-        <h1>Jekyll</h1>
+        <h1>What is Jekyll ?</h1>
+      </section>
+      <section data-background="#007777">
+        <p class="bigger">Simple Static Site Generator</p>
+        <p class="fragment bigger">Parsing Engine</p>
+      </section>
+      <section>
+        <h1>Why Jekyll ?</h1>
+      </section>
+      <section>
+        <img src="img/what_if.jpg" class="meme">
+        <p class="bigger">Minimalist</p>
+      </section>
+      <section>
+        <img src="img/you_must_be.jpg" class="meme">
+        <p class="bigger">Blogging like an awesome nerd</p>
+      </section>
+      <section>
+        <h1>Another Static Site Generator ?</h1>
+      </section>
+      <section>
+        <p class="bigger">Ruby : Octopress, Middleman </p>
+        <p class="fragment bigger">Phyton : Pelican</p>
+        <p class="fragment bigger">Go : Hugo</p>
+        <a href="https://www.staticgen.com/" target="_blank" class="fragment">etc ...</a>
+      </section>
+      <section>
+        <h2>Advantages</h2>
+        <hr><br>
+        <ul class="white">
+          <li class="fragment">Simple</li>
+          <li class="fragment">Fast</li>
+          <li class="fragment">Blog-aware</li>
+          <li class="fragment">Full Control</li>
+          <li class="fragment">Local Development</li>
+        </ul>
+      </section>
+      <section>
+        <h2>Disadvantages</h2>
+        <hr><br>
+        <ul class="">
+          <li class="fragment">Everything Is Manual</li>
+          <li class="fragment">Little Bit Scary For Code-phobia</li>
+          <li class="fragment">Difficult Dynamic Server Side Content</li>
+        </ul>
+      </section>
+      <section>
+        <h1>Quickstart</h1>
+      </section>
+      <section>
+        <h3>Install</h3>
+        <hr><br>
+        <p class="fragment">gem install jekyll</p>
+        <p class="fragment">jekyll new jogjarb</p>
+        <p class="fragment">jekyll s</p>
+      </section>
+      <section>
+        <h3>Create New Post & Page</h3>
+        <hr><br>
+        <p class='fragment'>Simply create new file under _posts directory with format : YEAR-MONTH-DAY-title.MARKUP </p>
+        <p class='fragment'>or use snippet / plugin :</p>
+        <p class='fragment'><a href="https://github.com/yunanhelmy/jekyll_rake_command">https://github.com/yunanhelmy/jekyll_rake_command</a></p>
+        <p class="fragment"><a hre f="https://github.com/jekyll/jekyll-compose">https://github.com/jekyll/jekyll-compose</a></p>
+      </section>
+      <section>
+        <h2>All about post & page</h2>
+        <hr><br>
+        <ul>
+          <li class="fragment">templates</li>
+          <li class="fragment">using markdown</li>
+          <li class="fragment">tags</li>
+          <li class="fragment">categories</li>
+          <li class="fragment">highlighting</li>
+          <li class="fragment">excerpt</li>
+          <li class="fragment">embed gist</li>
+        </ul>
+      </section>
+      <section>
+        <h1>Publish and Deploy</h1>
+      </section>
+      <section>
+        <h2>to Github</h2>
+        <hr><br>
+        <ul>
+          <li class="fragment">Create Repository named username.github.io</li>
+          <li class="fragment">Clone it (or add remote repository)</li>
+          <li class="fragment">Commit and push</li>
+          <li class="fragment">Your site is ready : http://username.github.io</li>
+        </ul>
+        <br>
+        <br>
+        <p class="fragment">details at <a href="https://pages.github.com/" target="_blank">https://pages.github.com/</a> </p>
+      </section>
+      <section>
+        <h2>to Heroku</h2>
+        <hr><br>
+        <ul>
+          <li class="fragment">install Gem : rack-jekyll</li>
+          <li class="fragment">create configuration : config.ru</li>
+          <li class="fragment">Add the rack-jekyll gem to the Heroku manifest</li>
+          <li class="fragment">setup / create Heroku account</li>
+          <li class="fragment">Commit and push to Heroku</li>
+          <li class="fragment">Your site is ready : heroku open</li>
+        </ul>
+      </section>
+      <section>
+        <h2>Using Collection & Data</h2>
+      </section>
+      <section>
+        <h2>Plugins</h2>
+      </section>
+      <section>
+        <h2>That's All for today</h2>
       </section>
     </div>
   </div>

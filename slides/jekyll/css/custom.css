@@ -1,0 +1,24 @@
+.reveal section img.opening{
+  background: none;
+  border: none;
+  box-shadow: none;
+  width: 100%;
+}
+
+.reveal section img.meme{
+  width: 15em;
+}
+
+.reveal section img{
+  background: none;
+  border: none;
+  box-shadow: none;
+}
+
+.reveal p.bigger{
+  font-size: 2em;
+}
+
+.reveal.center, .reveal.center .slides, .reveal.center .slides section{
+  color: #FFFFFF;
+}
