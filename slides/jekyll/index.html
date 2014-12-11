@@ -10,11 +10,12 @@
   <div class="reveal">
     <div class="slides">
       <section>
+        <p>M. Yunan Helmy, Jogja.rb #4</p>
         <img src="img/logo-2x.png" class="opening">
         <br>
-        <p><a href="http://jekyllrb.com/" target="_blank">http://jekyllrb.com/</a></p>
+        <p><a href="http://jekyllrb.com/" target="_blank">jekyllrb.com</a></p>
       </section>
-      <section data-background="#007777">
+      <section data-background="#007777" data-transition="zoom">
         <h1>Jekyll</h1>
         <hr>
         <h1>Blog Locally In Your Favorite Editor</h1>
@@ -22,31 +23,31 @@
       <section>
         <h1>What is Jekyll ?</h1>
       </section>
-      <section data-background="#007777">
+      <section data-background="#007777" data-transition="linear">
         <p class="bigger">Simple Static Site Generator</p>
         <p class="fragment bigger">Parsing Engine</p>
       </section>
-      <section>
+      <section data-background="#007777">
         <h1>Why Jekyll ?</h1>
       </section>
-      <section>
+      <section data-transition="linear">
         <img src="img/what_if.jpg" class="meme">
         <p class="bigger">Minimalist</p>
       </section>
-      <section>
+      <section data-transition="linear">
         <img src="img/you_must_be.jpg" class="meme">
         <p class="bigger">Blogging like an awesome nerd</p>
       </section>
-      <section>
+      <section data-background="#007777">
         <h1>Another Static Site Generator ?</h1>
       </section>
-      <section>
+      <section data-transition="linear">
         <p class="bigger">Ruby : Octopress, Middleman </p>
-        <p class="fragment bigger">Phyton : Pelican</p>
+        <p class="fragment bigger">Phyton : Pelican, Hyde</p>
         <p class="fragment bigger">Go : Hugo</p>
         <a href="https://www.staticgen.com/" target="_blank" class="fragment">etc ...</a>
       </section>
-      <section>
+      <section data-background="#007777" data-transition="fade">
         <h2>Advantages</h2>
         <hr><br>
         <ul class="white">
@@ -57,7 +58,7 @@
           <li class="fragment">Local Development</li>
         </ul>
       </section>
-      <section>
+      <section data-transition="fade">
         <h2>Disadvantages</h2>
         <hr><br>
         <ul class="">
@@ -66,17 +67,17 @@
           <li class="fragment">Difficult Dynamic Server Side Content</li>
         </ul>
       </section>
-      <section>
+      <section data-transition="zoom" data-background="#007777">
         <h1>Quickstart</h1>
       </section>
-      <section>
+      <section data-transition="fade">
         <h3>Install</h3>
         <hr><br>
         <p class="fragment">gem install jekyll</p>
         <p class="fragment">jekyll new jogjarb</p>
         <p class="fragment">jekyll s</p>
       </section>
-      <section>
+      <section data-transition="fade">
         <h3>Create New Post & Page</h3>
         <hr><br>
         <p class='fragment'>Simply create new file under _posts directory with format : YEAR-MONTH-DAY-title.MARKUP </p>
@@ -84,7 +85,7 @@
         <p class='fragment'><a href="https://github.com/yunanhelmy/jekyll_rake_command">https://github.com/yunanhelmy/jekyll_rake_command</a></p>
         <p class="fragment"><a hre f="https://github.com/jekyll/jekyll-compose">https://github.com/jekyll/jekyll-compose</a></p>
       </section>
-      <section>
+      <section data-background="#007777" data-transition="fade">
         <h2>All about post & page</h2>
         <hr><br>
         <ul>
@@ -97,7 +98,7 @@
           <li class="fragment">embed gist</li>
         </ul>
       </section>
-      <section>
+      <section data-transition="fade">
         <h1>Publish and Deploy</h1>
       </section>
       <section>
@@ -113,26 +114,47 @@
         <br>
         <p class="fragment">details at <a href="https://pages.github.com/" target="_blank">https://pages.github.com/</a> </p>
       </section>
-      <section>
+      <section data-background="#007777">
         <h2>to Heroku</h2>
         <hr><br>
         <ul>
-          <li class="fragment">install Gem : rack-jekyll</li>
-          <li class="fragment">create configuration : config.ru</li>
-          <li class="fragment">Add the rack-jekyll gem to the Heroku manifest</li>
-          <li class="fragment">setup / create Heroku account</li>
+          <li class="fragment">Install Gem : rack-jekyll</li>
+          <li class="fragment">Create configuration : config.ru</li>
+          <li class="fragment">Create Procfile and configure your rack server (if needed)</li>
           <li class="fragment">Commit and push to Heroku</li>
-          <li class="fragment">Your site is ready : heroku open</li>
+          <li class="fragment">Your site is ready</li>
         </ul>
       </section>
-      <section>
+      <section data-background="#007777" data-transition="fade">
         <h2>Using Collection & Data</h2>
       </section>
       <section>
-        <h2>Plugins</h2>
+        <h2>Collection</h2>
+        <hr><br>
+        <p class="fragment">You can create new document type, not only post and page</p>
+        <p class="fragment">Add collections configurations in _config.yml</p>
+        <p class="fragment">Create directory with same name as your collection</p>
+        <p class="fragment">Create subdirectory and create index.MARKUP</p>
+        <p class="fragment">Accessible via {{ site.your_collection }} </p>
       </section>
       <section>
-        <h2>That's All for today</h2>
+        <h2>Data</h2>
+        <hr><br>
+        <p class="fragment">DRY</p>
+        <p class="fragment">Stored your data here in _data directory using YAML</p>
+        <p class="fragment">Accessible via {{ site.data.your_data }} </p>
+      </section>
+      <section data-transition="fade">
+        <h2>Plugins</h2>
+        <hr><br>
+        <p class="fragment">Save your time with some Jekyll plugin</p>
+        <p class="fragment">But not working on Github</p>
+        <p class="fragment">You can find available plugins at <a href="http://jekyllrb.com/docs/plugins/" target='_blank'>Jekyll website</a></p>
+      </section>
+      <section data-background="#007777" data-transition="zoom">
+        <h3>That's All for today</h3>
+        <img src="img/dr_jekyll.jpg" class="meme" title="dr. jekyll">
+        <h3>Happy Blogging !</h3>
       </section>
     </div>
   </div>
