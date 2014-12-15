@@ -11,4 +11,4 @@ Two days ago, my current office held a test for all Ruby Developer. This is inte
 
 So please keep calm and be patient <del>awesome</del> ... 
 
-<img class="th post-image" data-src="http://posters.keepcalmandposters.com/5570208.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA">
+![keep calm and be awesome](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA){:class="th post-image"}{:data-src="http://posters.keepcalmandposters.com/5570208.jpg"}{:title="keep calm and be awesome"}

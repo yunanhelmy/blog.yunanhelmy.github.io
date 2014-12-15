@@ -7,7 +7,7 @@ categories: [zero motivation, isi otak]
 tags: [zero motivation, isi otak]
 thumbnail: http://yunanhelmy.github.io/images/sumpah.jpg
 ---
-![Sumpah](http://yunanhelmy.github.io/images/sumpah.jpg)
+![Sumpah](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA){:data-src="http://yunanhelmy.github.io/images/sumpah.jpg"}{:class="th post-image"}{:title="ilustrasi sumpah"}
 
 ## Keinginan
 

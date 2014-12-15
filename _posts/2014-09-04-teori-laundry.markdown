@@ -9,7 +9,7 @@ thumbnail: http://images.solopos.com/2012/12/mesin-cuci.jpeg
 ---
 > Biaya laundry berbanding lurus dengan semangat mencuci
 
-<img class="th post-image" data-src="http://images.solopos.com/2012/12/mesin-cuci.jpeg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA">
+![ilustrasi mencuci](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA){:class="th post-image"}{:data-src="http://images.solopos.com/2012/12/mesin-cuci.jpeg"}{:title="ilustrasi mencuci"}
 
 <p class="text-center post-image-caption">Ilustrasi mencuci</p>
 

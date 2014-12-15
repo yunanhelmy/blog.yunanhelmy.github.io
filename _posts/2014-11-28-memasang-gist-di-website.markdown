@@ -22,11 +22,11 @@ Untuk dapat membuat Gist kita harus memiliki akun [Github][github]{:target="_bla
 4. klik Create public Gist jika ingin membuat Gist tersebut dapat di akses semua orang
 5. klik Create secreat Gist untuk private Gist
 
-<img title="creating new Gist" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA" data-src="/images/gist/new_gist.png" class="th post-image">
+![creating new gist](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA){:class="th post-image"}{:data-src="/images/gist/new_gist.png"}{:title="creating new gist"}
 
 Jika kita ingin memasang Gist tersebut ke dalam website, kita hanya perlu copy Embed URL yang sudah disediakan oleh [Github][github]{:target="_blank"}. 
 
-<img title="embedding Gist" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA" data-src="/images/gist/embed_gist.png" class="th post-image">
+![creating new gist](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA){:class="th post-image"}{:data-src="/images/gist/embed_gist.png"}{:title="embedding gist"}
 
 Contoh hasil dari pemasangan Gist :
 
