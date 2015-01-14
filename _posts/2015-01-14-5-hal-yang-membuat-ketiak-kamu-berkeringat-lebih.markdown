@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5 Hal Yang Mungkin Membuat Ketiak Kamu Berkeringat Lebih"
+title: "5 Hal Yang Membuat Ketiak Kamu Berkeringat Lebih"
 date: 2015-01-14 10:10:38 +0700
 comments: true
 categories: ['slice of life']
