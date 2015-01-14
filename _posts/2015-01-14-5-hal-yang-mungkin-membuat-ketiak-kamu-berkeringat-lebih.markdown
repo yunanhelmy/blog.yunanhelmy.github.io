@@ -5,8 +5,10 @@ date: 2015-01-14 10:10:38 +0700
 comments: true
 categories: ['slice of life']
 tags: ['slice of life']
-thumbnail:
+thumbnail: '/images/keringat.jpg'
 ---
+
+![creating new gist](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA){:class="th post-image"}{:data-src="/images/keringat.jpg"}{:title="ilustrasi berkeringat di ketiak"}
 
 Setelah sebulan lamanya saya tidak menyentuh blog karena kesibukan main DoTA 2, akhirnya hari ini saya menulis juga. Maaf nih karena baru seneng - senengnya main DoTA 2 jadi agak males buat nulis. Padahal saya sudah punya beberapa ide untuk di tulis disini. hehehe
 
