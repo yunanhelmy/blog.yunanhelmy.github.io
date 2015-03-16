@@ -18,7 +18,8 @@ textile_ext:  "textile"
 
 # Plugins
 whitelist: []
-gems:      []
+gems:
+  - jekyll-sitemap
 
 # Conversion
 markdown:    kramdown
