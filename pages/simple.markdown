@@ -2,6 +2,7 @@
 layout: page
 title: List
 permalink: /simple/
+visible: true
 ---
 
 <ul>

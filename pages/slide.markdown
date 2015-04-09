@@ -2,6 +2,7 @@
 layout: page
 title: Presentation
 permalink: /presentations/
+visible: true
 ---
 
 This is list off all presentations :
