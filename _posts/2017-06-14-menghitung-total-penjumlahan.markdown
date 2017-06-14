@@ -123,7 +123,11 @@ Bagaimana hasilnya?
 
 Dari perbandingan tersebut, method inject dengan symbol adalah method yang paling efisien. Meskipun looping manual tidak memiliki perbedaan signifikan dengan method inject, menggunakan looping manual tidak dianjurkan. Inject dengan menggunakan block dan proc lebih lambat dibandingkan dengan inject dengan menggunakan symbol.
 
-Kesimpulan yang dapat kita ambil yaitu, untuk menjumlahkan nilai dalam array kita dapat menggunakan method : ```your_array.inject(:+)```.
+Kesimpulan yang dapat kita ambil yaitu, untuk menjumlahkan nilai dalam array kita dapat menggunakan method : 
+
+{% highlight ruby %}
+your_array.inject(:+)
+{% endhighlight %}
 
 
 
